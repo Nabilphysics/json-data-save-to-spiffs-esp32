@@ -5,6 +5,7 @@
 // Modified by Syed Razwanul Haque (Nabil), https://www.github.com/Nabilphysics
 // for
 // json data saving to ESP32 SPIFFS
+//https://arduinojson.org/v6/doc/serialization/
 #include "FS.h"
 #include "SPIFFS.h"
 #include <ArduinoJson.h>
